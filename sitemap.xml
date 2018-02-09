@@ -5,21 +5,22 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+
 <url>
-  <loc>https://danicastankovic.com/</loc>
-  <lastmod>2018-01-25T12:02:36+00:00</lastmod>
+  <loc>https://mladenstankovic.in.rs/</loc>
+  <lastmod>2018-02-09T09:48:04+00:00</lastmod>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://danicastankovic.com/404.html</loc>
-  <lastmod>2018-01-25T12:02:36+00:00</lastmod>
+  <loc>https://mladenstankovic.in.rs/404.html</loc>
+  <lastmod>2018-02-09T09:48:04+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://danicastankovic.com/403.html</loc>
-  <lastmod>2018-01-25T12:02:36+00:00</lastmod>
+  <loc>https://mladenstankovic.in.rs/403.html</loc>
+  <lastmod>2018-02-09T09:48:04+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.70</priority>
 </url>
